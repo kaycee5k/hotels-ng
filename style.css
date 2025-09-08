@@ -393,6 +393,7 @@ nav {
   background: #00aeff;
   color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  transition: ease-in-out 0.3s;
 }
 .suggestions-card h3 {
   color: #00aeff;
